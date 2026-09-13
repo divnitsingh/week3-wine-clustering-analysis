@@ -170,15 +170,6 @@ The tests cover:
 - Cluster-profile completeness.
 - Hierarchical comparison.
 
-## GitHub upload
-
-After extracting the ZIP:
-
-1. Create a repository such as `week3-wine-clustering-analysis`.
-2. Upload the contents of the extracted project folder.
-3. Commit and push.
-4. Submit the resulting GitHub repository URL to your internship portal.
-
 ## Responsible interpretation
 
 This project is educational. Clustering results depend on feature selection, scaling, distance metric, algorithm, and selected cluster count. A visually separated cluster is not proof of a real-world causal or categorical distinction.
